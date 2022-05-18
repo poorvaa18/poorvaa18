@@ -8,6 +8,8 @@
 - 📫 How to reach me **poorva.gupta29@gmail.com**
 
 - ⚡ Fun fact **leisure occupied in playing guitar and writing poetry**
+- My personal website - https://guptapoorva.netlify.app/
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
