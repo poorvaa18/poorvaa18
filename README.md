@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=poorvaa18&label=Profile%20views&color=0e75b6&style=flat" alt="poorvaa18" /> </p>
 
-- 🌱 I’m currently learning **Data science and machine learning**
+- 🌱 I’m passionate about Business analysis and Product Management**
 
 - 📫 How to reach me **poorva.gupta29@gmail.com**
 
